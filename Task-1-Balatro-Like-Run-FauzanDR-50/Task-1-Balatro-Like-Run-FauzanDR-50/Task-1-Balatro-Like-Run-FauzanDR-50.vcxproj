@@ -123,12 +123,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="RunSession.cpp" />
     <ClCompile Include="Task-1-Balatro-Like-Run-FauzanDR-50.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IInputGenerator.h" />
     <ClInclude Include="IRewardRule.h" />
     <ClInclude Include="IScoringRule.h" />
+    <ClInclude Include="RunSession.h" />
+    <ClInclude Include="ShopSystem.h" />
     <ClInclude Include="TurnInput.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -18,6 +18,9 @@
     <ClCompile Include="Task-1-Balatro-Like-Run-FauzanDR-50.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RunSession.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TurnInput.h">
@@ -30,6 +33,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="IRewardRule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RunSession.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
