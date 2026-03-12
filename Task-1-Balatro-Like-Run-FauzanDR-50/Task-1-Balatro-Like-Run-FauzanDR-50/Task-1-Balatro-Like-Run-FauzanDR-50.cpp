@@ -1,20 +1,42 @@
-// Task-1-Balatro-Like-Run-FauzanDR-50.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
+#include "RunSession.h"
+#include "StandardInputGenerator.h"
+#include "RandomInputGenerator.h"
+#include "StandardScoringRule.h"
+#include "StandardRewardRule.h"
+#include "BonusRewardRule.h"
+#include "ShopSystem.h"
 
-int main()
-{
-    std::cout << "Hello World!\n";
+int main() {
+    // 1. Buat instance dari ShopSystem (karena dia bukan interface di tugas ini)
+    ShopSystem shop;
+
+    // ==========================================
+    // SKENARIO 1: SISTEM ORIGINAL
+    // ==========================================
+    std::cout << "\n[MENJALANKAN SISTEM ORIGINAL]\n";
+    StandardInputGenerator originalInput;
+    StandardScoringRule standardScoring;
+    StandardRewardRule originalReward;
+
+    // Inject ke RunSession
+    RunSession originalRun(&originalInput, &standardScoring, &originalReward, &shop);
+    originalRun.run();
+
+    std::cout << "\n==========================================\n";
+
+    // ==========================================
+    // SKENARIO 2: SETELAH MODIFIKASI 1 & 2
+    // ==========================================
+    std::cout << "\n[MENJALANKAN SISTEM DENGAN MODIFIKASI]\n";
+
+    // Kita gunakan kelas baru: RandomInputGenerator dan BonusRewardRule
+    RandomInputGenerator modifiedInput;
+    BonusRewardRule modifiedReward;
+
+    // Inject komponen BARU ke RunSession (RunSession.cpp TIDAK DISENTUH SAMA SEKALI!)
+    RunSession modifiedRun(&modifiedInput, &standardScoring, &modifiedReward, &shop);
+    modifiedRun.run();
+
+    return 0;
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file

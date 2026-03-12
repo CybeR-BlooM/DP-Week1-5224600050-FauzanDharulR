@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\TurnInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|solutionrelative:Task-1-Balatro-Like-Run-FauzanDR-50\\TurnInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|solutionrelative:Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\BonusRewardRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|solutionrelative:Task-1-Balatro-Like-Run-FauzanDR-50\\BonusRewardRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\RandomInputGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|solutionrelative:Task-1-Balatro-Like-Run-FauzanDR-50\\RandomInputGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\StandardRewardRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|solutionrelative:Task-1-Balatro-Like-Run-FauzanDR-50\\StandardRewardRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\StandardScoringRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|solutionrelative:Task-1-Balatro-Like-Run-FauzanDR-50\\StandardScoringRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\StandardInputGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|solutionrelative:Task-1-Balatro-Like-Run-FauzanDR-50\\StandardInputGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\ShopSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|solutionrelative:Task-1-Balatro-Like-Run-FauzanDR-50\\ShopSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\RunSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|solutionrelative:Task-1-Balatro-Like-Run-FauzanDR-50\\RunSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\RunSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|solutionrelative:Task-1-Balatro-Like-Run-FauzanDR-50\\RunSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\TurnInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|solutionrelative:Task-1-Balatro-Like-Run-FauzanDR-50\\TurnInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3072C892-20B5-4C74-A756-2CF88ED0D253}|Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\IInputGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,46 +66,122 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IRewardRule.h",
-              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\IRewardRule.h",
-              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\IRewardRule.h",
-              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\IRewardRule.h",
-              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\IRewardRule.h",
+              "DocumentIndex": 1,
+              "Title": "BonusRewardRule.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\BonusRewardRule.h",
+              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\BonusRewardRule.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\BonusRewardRule.h",
+              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\BonusRewardRule.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-12T01:17:37.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IScoringRule.h",
-              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\IScoringRule.h",
-              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\IScoringRule.h",
-              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\IScoringRule.h",
-              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\IScoringRule.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-12T01:17:01.45Z",
+              "WhenOpened": "2026-03-12T03:05:24.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IInputGenerator.h",
-              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\IInputGenerator.h",
-              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\IInputGenerator.h",
-              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\IInputGenerator.h",
-              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\IInputGenerator.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Title": "RandomInputGenerator.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\RandomInputGenerator.h",
+              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\RandomInputGenerator.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\RandomInputGenerator.h",
+              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\RandomInputGenerator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-12T01:16:29.083Z",
+              "WhenOpened": "2026-03-12T03:04:40.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StandardRewardRule.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\StandardRewardRule.h",
+              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\StandardRewardRule.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\StandardRewardRule.h",
+              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\StandardRewardRule.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-12T03:03:59.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Task-1-Balatro-Like-Run-FauzanDR-50.cpp",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.cpp",
+              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.cpp",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.cpp",
+              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-12T01:13:57.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StandardScoringRule.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\StandardScoringRule.h",
+              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\StandardScoringRule.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\StandardScoringRule.h",
+              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\StandardScoringRule.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-12T03:03:32.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StandardInputGenerator.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\StandardInputGenerator.h",
+              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\StandardInputGenerator.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\StandardInputGenerator.h",
+              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\StandardInputGenerator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-12T03:02:30.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShopSystem.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\ShopSystem.h",
+              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\ShopSystem.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\ShopSystem.h",
+              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\ShopSystem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-12T01:30:05.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RunSession.cpp",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\RunSession.cpp",
+              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\RunSession.cpp",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\RunSession.cpp",
+              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\RunSession.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-12T01:31:45.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RunSession.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\RunSession.h",
+              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\RunSession.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\RunSession.h",
+              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\RunSession.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-12T01:31:00.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "TurnInput.h",
               "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\TurnInput.h",
               "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\TurnInput.h",
@@ -81,21 +189,43 @@
               "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\TurnInput.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-12T01:15:21.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T01:15:21.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Task-1-Balatro-Like-Run-FauzanDR-50.cpp",
-              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.cpp",
-              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.cpp",
-              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.cpp",
-              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-12T01:13:57.489Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "IRewardRule.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\IRewardRule.h",
+              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\IRewardRule.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\IRewardRule.h",
+              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\IRewardRule.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-12T01:17:37.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IScoringRule.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\IScoringRule.h",
+              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\IScoringRule.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\IScoringRule.h",
+              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\IScoringRule.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-12T01:17:01.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IInputGenerator.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\IInputGenerator.h",
+              "RelativeDocumentMoniker": "Task-1-Balatro-Like-Run-FauzanDR-50\\IInputGenerator.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week1-5224600050-FauzanDharulR\\Task-1-Balatro-Like-Run-FauzanDR-50\\Task-1-Balatro-Like-Run-FauzanDR-50\\IInputGenerator.h",
+              "RelativeToolTip": "Task-1-Balatro-Like-Run-FauzanDR-50\\IInputGenerator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-12T01:16:29.083Z"
             },
             {
               "$type": "Bookmark",
